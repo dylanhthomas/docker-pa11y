@@ -1,5 +1,5 @@
 build:
-	docker build -t robloach/pa11y-dashboard .
+	docker build -t pa11y/pa11y-dashboard .
 
 run:
-	docker run robloach/pa11y-dashboard
+	docker run pa11y/pa11y-dashboard
